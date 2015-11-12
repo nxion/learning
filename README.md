@@ -6,7 +6,7 @@ This repo will hold all the self-paced lessons I use to help me learn Web develo
 
 ####[The Odin Project][TOP]
 - [Android Logo][android-logo]
-	- This was built from the third assignment listed from the above page.  You can [view this example][android-lesson-link] in your browser.
+	- This was built from the third assignment listed from the above page. You can [view this example][android-lesson-link] in your browser.
 
 - [Basic Web Demo][bwd-lesson-link]
 	- This was built from the [Mozilla Development Network's Getting Started with the Web][mdn-start] series. You can [view this example][bwd] in your browser.
