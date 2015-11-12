@@ -1,9 +1,8 @@
 Web Development
 ===============
 
-This repo will hold all the self paced lessons I use to help me learn
-web development. I will update this readme with a detailed list of what
-will be added here and from where.
+This repo will hold all the self-paced lessons I use to help me learn Web development. I will update this readme with a detailed list of what will be added here and from where. Hopefully, this will be updated on a regular basis
+
 
 ####[The Odin Project][TOP]
 - [Android Logo][android-logo]
