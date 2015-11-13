@@ -1,16 +1,15 @@
 Web Development
 ===============
 
-This repo will hold all the self paced lessons I use to help me learn
-web development. I will update this readme with a detailed list of what
-will be added here and from where.
+This repo will hold all the self-paced lessons I use to help me learn Web development. I will update this readme with a detailed list of what will be added here and from where. Hopefully, this will be updated on a regular basis
+
 
 ####[The Odin Project][TOP]
 - [Android Logo][android-logo]
-	- This was built from the third assignment listed from the above page.  You can [view this example][android-lesson-link] in your browser.
+	- This was built from the third assignment listed from the above page. You can [view this example][android-lesson-link] in your browser.
 
 - [Basic Web Demo][bwd-lesson-link]
-	- This was build from the [Mozilla Development Network's Getting Started with the Web][mdn-start] series. You can [view this example][bwd] in your browser.
+	- This was built from the [Mozilla Development Network's Getting Started with the Web][mdn-start] series. You can [view this example][bwd] in your browser.
 
 
 [//]: # (REFERENCE LINKS)
