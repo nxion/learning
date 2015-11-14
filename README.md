@@ -12,7 +12,7 @@ This repo will hold all the self-paced lessons I use to help me learn Web develo
 	- This was built from the [Mozilla Development Network's Getting Started with the Web][mdn-start] series. You can [view this example][bwd] in your browser.
 
 - [Project Euler][euler-lesson-link]
-	- This was built from the [Project Euler assignment][euler-page]. You can [view this example][euler] in your browser.
+	- This was built from the [Project Euler assignment][euler-page]. You can [view this example][euler] in your browser but it is still a work in progres.
 
 [//]: # (REFERENCE LINKS)
 
